@@ -43,6 +43,7 @@ Aspiring Full Stack Developer and Cybersecurity Enthusiast.
 
 ## Project Screenshot
 
-https://drive.google.com/file/d/15ShCd8fBKLn540f1-e7LpVecV9t1Ah3z/view?usp=drivesdk
+![Project Screenshot](https://drive.google.com/thumbnail?id=1n5tOpSGCCWqwSUtfIlpMNEyiTfrMBK1N&sz=w1000)
+
 
 
