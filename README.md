@@ -1,33 +1,44 @@
 # Nandu University Student Application Form
 
-## Overview
-The Nandu University Student Application Form is an Android application designed to help students submit their application forms easily and securely.
+## Project Overview
+This project is a Student Application Form website developed using HTML, CSS, and JavaScript. It allows students to enter their personal and academic details and upload a photo during the application process.
 
 ## Features
-- Student registration
-- Application form submission
-- Personal details entry
-- Academic information submission
-- Document upload support
-- User-friendly interface
+- Student Name input
+- Email Address input
+- Phone Number input
+- Father Name input
+- Mother Name input
+- 10th Marks input
+- 12th Marks input
+- Photo Upload feature
+- Responsive and user-friendly design
+- Application Submission button
 
 ## Technologies Used
-- Android Studio
-- Java/Kotlin
-- Firebase (optional)
-- XML for UI design
 
-## Installation
-1. Clone the repository.
-2. Open the project in Android Studio.
-3. Build and run the application on an Android device or emulator.
+- HTML5
+- CSS3
+- JavaScript
+
 
 ## Purpose
-This application simplifies the student application process by providing an online platform for submitting application details.
+The purpose of this project is to simplify the student admission process by providing an online application form for Nandu University.
 
 ## Author
-**Nandu**
+**M Nandu**
+Aspiring Full Stack Developer and Cybersecurity Enthusiast.
 
-## License
-This project is intended for educational purposes.tion-form
-Student application form application for Nandu University.
+## Future Improvements
+- Database integration
+- Student login system
+- Application status tracking
+- Email confirmation after submission
+## Project Screenshot
+
+![Nandu University Student Application Form](screenshot.png)
+## Project Screenshot
+
+![Nandu University Student Application Form](images/screenshot.png)
+
+
