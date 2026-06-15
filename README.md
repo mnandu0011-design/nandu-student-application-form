@@ -1,4 +1,4 @@
-# Nandu University Student Application Form
+## Nandu University Student Application Form
 
 ## Project Overview
 This project is a Student Application Form website developed using HTML, CSS, and JavaScript. It allows students to enter their personal and academic details and upload a photo during the application process.
@@ -38,7 +38,8 @@ Aspiring Full Stack Developer and Cybersecurity Enthusiast.
 
 ## Project Screenshot
 
-<img src="https://io.google.com/downloads/v1/image?id=1Bc0vHcAvpaRpHZft6Adlk0FkB7pm_hJS" width="100%" alt="Project Screenshot" />
+
+![Project Screenshot](https://drive.google.com/thumbnail?id=1Bc0vHcAvpaRpHZft6Adlk0FkB7pm_hJS&sz=w1000)
 
 ## Project Screenshot
 
