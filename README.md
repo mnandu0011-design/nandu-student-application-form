@@ -1,4 +1,4 @@
-# nandu-student-applica# Nandu University Student Application Form
+# Nandu University Student Application Form
 
 ## Overview
 The Nandu University Student Application Form is an Android application designed to help students submit their application forms easily and securely.
