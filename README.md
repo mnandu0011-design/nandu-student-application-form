@@ -34,9 +34,11 @@ Aspiring Full Stack Developer and Cybersecurity Enthusiast.
 - Student login system
 - Application status tracking
 - Email confirmation after submission
+
+
 ## Project Screenshot
 
-https://drive.google.com/file/d/12ZPBjkGICGbUgq7uJ4svcVdY5ERLGbF4/view?usp=drivesdk
+![Nandu University Student Application Form](https://drive.google.com/file/d/1Bc0vHcAvpaRpHZft6Adlk0FkB7pm_hJS/view?usp=drivesdk.png)
 ## Project Screenshot
 
 https://drive.google.com/file/d/15ShCd8fBKLn540f1-e7LpVecV9t1Ah3z/view?usp=drivesdk
