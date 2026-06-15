@@ -36,9 +36,9 @@ Aspiring Full Stack Developer and Cybersecurity Enthusiast.
 - Email confirmation after submission
 ## Project Screenshot
 
-![Nandu University Student Application Form](screenshot.png)
+https://drive.google.com/file/d/12ZPBjkGICGbUgq7uJ4svcVdY5ERLGbF4/view?usp=drivesdk
 ## Project Screenshot
 
-![Nandu University Student Application Form](images/screenshot.png)
+https://drive.google.com/file/d/15ShCd8fBKLn540f1-e7LpVecV9t1Ah3z/view?usp=drivesdk
 
 
