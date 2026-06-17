@@ -36,12 +36,12 @@ Aspiring Full Stack Developer and Cybersecurity Enthusiast.
 - Email confirmation after submission
 
 
-## Project Screenshot
+## 📸 Project Screenshot
 
 
 ![Project Screenshot](https://drive.google.com/thumbnail?id=1Bc0vHcAvpaRpHZft6Adlk0FkB7pm_hJS&sz=w1000)
 
-## Project Screenshot
+## 📸 Student Registration Form Output
 
 ![Project Screenshot](https://drive.google.com/thumbnail?id=1n5tOpSGCCWqwSUtfIlpMNEyiTfrMBK1N&sz=w1000)
 
