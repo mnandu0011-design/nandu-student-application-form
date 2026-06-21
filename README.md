@@ -44,6 +44,7 @@ Aspiring Full Stack Developer and Cybersecurity Enthusiast.
 ## 📸 Student Registration Form Output
 
 ![Project Screenshot](https://drive.google.com/thumbnail?id=1n5tOpSGCCWqwSUtfIlpMNEyiTfrMBK1N&sz=w1000)
+___
 
 
 
